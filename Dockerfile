@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.15.0@sha256:f844b0fdf4f47898f11b4050a65aa5a621cfa92cc1090fc514b54b058a90c491
+From gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/eventlistenersink:v0.15.0@sha256:7289cbad13d15cdc2dd9cf96f03018b1dce7e0e348cfe7465bb116b226e8c386
