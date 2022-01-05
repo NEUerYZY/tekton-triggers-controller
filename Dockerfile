@@ -1,1 +1,1 @@
-From gcr.io/kaniko-project/executor:latest11
+From gcr.io/kaniko-project/executor:latest
