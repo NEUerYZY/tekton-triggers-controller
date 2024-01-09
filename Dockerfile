@@ -1,1 +1,1 @@
-From gcr.io/kaniko-project/executor:v1.19.0
+From gcr.io/kaniko-project/executor:v1.18.0
